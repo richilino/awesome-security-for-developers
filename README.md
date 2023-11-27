@@ -12,6 +12,8 @@ A list of resources focused on software security and aimed at developers
 [Code With Engineering Playbook | Microsoft](https://microsoft.github.io/code-with-engineering-playbook/security/)
 
 ## Secure Design
+[Building Secure & Reliable Systems | Google](https://sre.google/books/) :book:
+
 [Secure by Design | CISA](https://www.cisa.gov/securebydesign)
 
 [Google Infrastructure Security Design Overview | Google](https://cloud.google.com/docs/security/infrastructure/design) :bookmark_tabs:
