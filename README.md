@@ -1,20 +1,34 @@
 # Awesome Security for Developers
 A list of resources focused on software security and aimed at developers
 
-:book: (Online) Book
-:bookmark_tabs: White Paper
-:ledger: Technical Deep Dives
-:mortar_board: Academic Paper
+## Organization
+If you are going to read one thing and one thing only, it is usually best to start with the first link in a given section.
+
+Resources are categorized according to the legend below:
+
+- :newspaper: Article: A short introductory text about a particular concept
+- :bookmark_tabs: White Paper: Short to medium length technical documents, describing a certain high-level concept
+- :ledger: Technical Deep Dive: Like a whitepaper, but more exhaustive or covering a broader topic
+- :book: (Online) Book: Well, a book.
+- :mortar_board: Academic Paper: Papers or Articles that have been published in a relevant journal
 
 ## Secure Development
 [Fundamental Practices for Secure Software Development | SAFECode](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf)
 
 [Code With Engineering Playbook | Microsoft](https://microsoft.github.io/code-with-engineering-playbook/security/)
 
+[Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/) :newspaper:
+
+[Code Review Developer Guide | Google](https://google.github.io/eng-practices/review/)
+
+[security.txt | RFC 9116](https://securitytxt.org/)
+
+[OpenSSF Scorecard | Open Source Security Foundation](https://securityscorecards.dev/)
+
 ## Secure Design
 [Building Secure & Reliable Systems | Google](https://sre.google/books/) :book:
 
-[Secure by Design | CISA](https://www.cisa.gov/securebydesign)
+[Secure by Design | CISA](https://www.cisa.gov/securebydesign) :bookmark_tabs:
 
 [Google Infrastructure Security Design Overview | Google](https://cloud.google.com/docs/security/infrastructure/design) :bookmark_tabs:
 
