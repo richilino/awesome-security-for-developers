@@ -42,6 +42,12 @@ Resources are categorized according to the legend below:
 
 [Practical Cryptography for Developers | Svetlin Nakov](https://cryptobook.nakov.com/) :book:
 
+[Crypto101 | lvh](https://www.crypto101.io/) :book:
+
+[The Joy of Cryptography (Undergaduate Level) | Mike Rosulek](https://joyofcryptography.com/) :book:
+
+[A Graduate Course in Applied Cryptography (Graduate Level) | Dan Boneh and Victor Shoup](https://toc.cryptobook.us/) :book:
+
 ## Security Testing
 
 [Application Security Verification Standard | OWASP](https://owasp.org/www-project-application-security-verification-standard/)
